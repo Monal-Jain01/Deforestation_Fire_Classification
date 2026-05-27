@@ -1,6 +1,7 @@
 # Fire Classification Project
 
 ## Welcome to the Fire Classification Project! 🔥
+Live Demo: https://deforestationfireclassification.streamlit.app/
 
 This project is all about using smart tech to detect and classify wildfires quickly and accurately. By analyzing data, we aim to help firefighters, communities, and environmentalists tackle fires early to save forests, homes, and lives.
 
